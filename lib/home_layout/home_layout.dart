@@ -9,7 +9,7 @@ class HomeLayout extends StatelessWidget {
 
       appBar: AppBar(
         title: Text('ToDo',style:Theme.of(context).textTheme.bodyLarge,),
-        toolbarHeight: 80,
+        toolbarHeight: 120,
 
 
       ),
